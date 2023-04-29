@@ -35,7 +35,7 @@ const checkpoints = [
     date: "September 2024",
     description:
       "Final testing and tuning of the electric conversion begins. The car is now ready to be driven on the road.",
-    link: "https://www.google.com",
+    link: "https://www.instagram.com",
   },
   {
     id: 6,
